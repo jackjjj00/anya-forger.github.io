@@ -13,7 +13,7 @@ const width = screen.width;
         <div class="flex w-full flex-col md:flex-row">
             <div class="w-full md:w-1/2">
                 <Typing
-                    text="Anya Forger"
+                    text="jack's website"
                     @done="step++"
                     class="mb-2 block text-2xl sm:text-3xl lg:text-4xl"
                 />
@@ -30,7 +30,7 @@ const width = screen.width;
                 <a
                     v-if="step > 2"
                     class="mt-4 flex items-center text-lg text-gray-500 transition-all hover:text-gray-700"
-                    href="https://www.instagram.com/spy_family_official/"
+                    href="https://www.instagram.com/jack._.0.0913"
                     target="_blank"
                 >
                     <MdiInstagram class="mr-1 inline-block" />

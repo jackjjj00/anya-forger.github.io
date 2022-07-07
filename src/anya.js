@@ -35,14 +35,14 @@ pic.avatars.push(
     "https://spy-family.net/assets/img/special/episode12/06.png",
 );
 
-const titles = ["First-Grade Student", "Test Subject 007", "Telepath"];
+const titles = ["Senior High Student", "Like to sleep", "Engineer"];
 
 const about = [
-    "My name is Anya Forger. I am 6 years old now!",
-    "I am studing in Cecile Hall at Eden Academy.",
+    "My name is Jack Wu. I am 16 years old now!",
+    "I am studing  Hsinchuang Senior High School in New Taipei Municipal.",
     "",
     "This summer I went to NTNU CSIE Camp to learn how to code.",
-    "During the camp, I learned how to: ",
+    "During the camp, I learned how to making a basic game code in this fantastic camping.",
     "  - Build SPA Website with frontend framework Vue and Tailwind.",
     "  - Develop efficiently with Node.js ecosystem.",
     "  - Design and develop a gomoku gaming agent with Python.",
@@ -54,23 +54,23 @@ const about = [
 
 const projects = [
     {
-        name: "My Portfolio Website",
-        description: "A portfolio website for myself that I developed in NTNU CSIE Camp.",
-        image: "https://spy-family.net/assets/img/special/wall02.jpg",
-        skills: ["Vue", "Tailwind", "Node.js", "GitHub"],
+        name: "桌布製作",
+        description: "tfolio website for myself that I devA poreloped in NTNU CSIE Camp.",
+        image: "https://i.imgur.com/dktCSdZ.jpeg",
+        skills: ["Rainmeter"],
         url: "https://github.com/anya-forger/anya-forger.github.io",
     },
     {
-        name: "AI Gomoku Gaming Agent",
+        name: "Learning Javascript",
         description: "A gomoku gaming agent with Python that I designed in NTNU CSIE Camp.",
-        image: "https://spy-family.net/assets/img/special/wall01.jpg",
+        image: "https://hackernoon.com/hn-images/1*bxEkHw1xewxOFjmGunb-Cw.png",
         skills: ["Python", "Algorithm", "Gomoku"],
         url: "https://github.com/anya-forger",
     },
     {
-        name: "SPY x FAMILY",
+        name: "Learning Python",
         description: "An anime that I starred in.",
-        image: "https://spy-family.net/assets/img/special/special10_1.gif",
+        image: "https://www.foolegg.com/wp-content/uploads/2013/01/python-logo-master-v3-TM.png",
         skills: ["Performings"],
         url: "https://spy-family.net",
     },
